@@ -1,0 +1,5 @@
+Czech
+English
+Hungarian
+Polish
+Russian

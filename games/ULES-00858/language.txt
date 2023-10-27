@@ -1,0 +1,7 @@
+Dutch
+English
+French
+German
+Italian
+Russian
+Spanish
