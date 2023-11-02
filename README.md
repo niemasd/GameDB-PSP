@@ -8,5 +8,6 @@ Sony PlayStation Portable (PSP), part of [GameDB](https://github.com/niemasd/Gam
 * **[`PSP.titles.json`](https://github.com/niemasd/GameDB-PSP/releases/latest/download/PSP.titles.json):** Mapping of serial numbers to game titles, structured in the JSON format
 
 # Sources
+* [MiSTer Addons](https://misteraddons.com/)
 * [PlayStation Datacenter](https://psxdatacenter.com/)
 * [Redump](http://redump.org/)
