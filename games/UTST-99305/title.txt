@@ -1,0 +1,2 @@
+TestDisc: Game (w) 200 + Video (w) 150 + Audio (w) 100 SYSVER check »GAME
+テストディスク：ゲーム(w)200＋ビデオ(w)150＋オーディオ(w)100 SYSVERチェック≫GAME

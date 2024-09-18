@@ -1,0 +1,2 @@
+TestDisc: Parental lock level 0
+テストディスク：パレンタルロックレベル0

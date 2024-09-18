@@ -1,0 +1,2 @@
+TestDisc: UMD_DATA.BIN a disc other than GAV
+テストディスク：UMD_DATA.BINにGAV以外のディスク

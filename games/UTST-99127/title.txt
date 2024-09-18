@@ -1,0 +1,2 @@
+TestDisc: Video (2) SYSVER check: SYSVER 1.50
+テストディスク：ビデオ(2) SYSVERチェック：SYSVER1.50

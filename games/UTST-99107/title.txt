@@ -1,0 +1,2 @@
+TestDisc: Body version 1.10
+テストディスク：本体バージョン1.10

@@ -1,0 +1,2 @@
+TestDisc: Audio (w) SYSVER check: SYSVER 2.00
+テストディスク：オーディオ(w) SYSVERチェック：SYSVER2.00

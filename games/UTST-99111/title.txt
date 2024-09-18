@@ -1,0 +1,2 @@
+TestDisc: GV and G does not have PARAM.SFO
+テストディスク：GVでGにPARAM.SFOがない

@@ -1,0 +1,2 @@
+TestDisc: GAV + updater
+テストディスク：GAV+アップデータ
